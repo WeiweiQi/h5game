@@ -1,0 +1,1 @@
+{"importBase":"import","nativeBase":"native","name":"prefabs","deps":["main"],"uuids":["28ig360XJAioxwiulFxn7v"],"paths":{"0":["bullet",0]},"scenes":{},"packs":{},"versions":{"import":[],"native":[]},"redirect":[0,"0"],"debug":false,"extensionMap":{},"hasPreloadScript":true,"types":["cc.Prefab"]}
